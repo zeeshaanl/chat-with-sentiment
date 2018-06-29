@@ -1,1 +1,1 @@
-# chat-with-sentiment
+Simple chat app built with Next.js, Pusher and React
